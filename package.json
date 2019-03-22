@@ -1,0 +1,19 @@
+{
+  "name": "simple-wechat-share",
+  "version": "1.0.1",
+  "description": "a simple wechat share library depend on offical jssdk",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "share"
+  ],
+  "author": "guichi688@outlook.com",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.3.4000"
+  }
+}
